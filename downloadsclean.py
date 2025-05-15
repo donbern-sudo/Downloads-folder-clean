@@ -2,8 +2,8 @@
 # Set Dowloads folder path 
 # Define File types for organizing
 
-
-
+### IMPORTANT ###
+# Remember to change the path in line 13 to the path that point to the downloads folder on your computer
 
 import os
 import shutil
